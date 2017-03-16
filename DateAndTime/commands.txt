@@ -1,0 +1,24 @@
+These are some commands to run the above program
+
+# Commands List
+
+
+# cal  [ To show current Calendar ]
+# next  [ To show calendar of next month ]
+# prev  [ To show calendar of previous month ]
+# reset [ It will reset calendar to current calendar ]
+# (month) (year)  [ input month number and year it will display calendar of this month and year. Ex: 1 2017 ]
+
+# hour  [ It will display current hour in 12 hr format ]
+# hour24  [ It will display current hour in 24 hr format ] 
+# min   [ It will display current minute ]
+# time  [ It will Display Current Time Hr:Min:Sec:AM/PM ]
+# time24  [ It will Display Current Time in 24 hr format Hr:Min:Sec ]
+# timedate  [ It will Display time and date full view ]
+# day   [ It will display the current calendar day ]
+# month [It will display the current calendar month ]
+# year  [ It will display the current calendar year ]
+# yearday [ It will display the year day of the current day ]
+# weekofyear  [ It will display the week of the year of the current week ]
+# weekofmonth [ It will display the week of the month of the current week ]
+# weekday   [ It will diplay the week of the day of the current day ]
